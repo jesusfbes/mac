@@ -1,0 +1,465 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesus",
+      "surnames": "Fernandez Bes",
+      "title": "Ph. D., Lead Machine Learning Engineer en NTT DATA Europe & LATAM",
+      "description": "Telecommunication Engineer, and Ph. D. specialist in Big Data and Signal Processing Technologies from Universidad Carlos III de Madrid (both with honors). During the Ph. D. I researched about the application of Signal Processing and Machine Learning into Internet of the things (IoT) with publications in international research journals of the field. Also, I have been lecturer at undergraduate and graduate level both in Spanish and English in different courses: Data Processing, Image Processing, Signals and Systems.\n\nAfter, the Ph. D. I was as a postdoc in I3A (Instituto de Investigación en Ingeniería de Aragón) working in mathematical modeling of cardiac cells in BSICoS (Biomedical Signal Interpretation and Computational Simulation) group. \n\nSince 2019 I am Artificial Intelligence Engineer in Everis where I coordinate the technical team in charge of the Artificial Intelligence of Knowler, an innovative product of smart knowledge management. \n\nI have professional experience in the use of machine learning and Natural Language Processing techniques and frameworks; in the design and implementation of intelligent information systems: e.g., Information extraction systems, Document Classifiers, Recommendation Systems, etc. Also I have proficiency in Python and professional Java and Big Data techniques experience.\n\nI have Interest in all levels of Research, Development, Innovation and Competitive Intelligence. ",
+      "avatar": {
+        "alt": "1580241870496.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/ea1efa99-b233-4016-b560-07b8a02937c9_1580241870496.jpg"
+      },
+      "location": {
+        "notes": "Zaragoza (Spain)"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesusfbes/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jesusfbes"
+      },
+      {
+        "type": "other",
+        "URL": "http://jesusfbes.es"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "University of Zaragoza (Instituto de Investigación en Ingeniería de Aragon)",
+          "image": {
+            "alt": "7ZptNFsx_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/3e255209-854e-4481-a527-74b77898d40c_7zptnfsx_400x400.png"
+          },
+          "URL": "https://bsicos.i3a.es/"
+        },
+        "roles": [
+          {
+            "name": "Postdoctoral Researcher",
+            "startDate": "2016-04-01",
+            "finishDate": "2018-02-01",
+            "challenges": [
+              {
+                "description": "Researcher at Biomedical Signal Interpretation and Computational Simulation Group (BSICoS). Research in mathematical Cardiac Modelling and simulation.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Matlab",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CESTE",
+          "image": {
+            "alt": "CESTE-Logo-Escuela-RGB.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/211cd8f8-548a-4692-9ae3-5da1bd51aa2f_ceste-logo-escuela-r.png"
+          },
+          "URL": "https://www.ceste.es/"
+        },
+        "roles": [
+          {
+            "name": "Lecturer",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Teacher in the Master of Artificial Intelligence and Data Science (CESTE). Subjects: Deep Learning, Introduction to Data Science."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IEBS",
+          "image": {
+            "alt": "logo-iebs-tagline-horizontal.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/c216af8a-539c-4b4b-8c2e-c4eb6bd5c16a_logo-iebs-tagline-ho.png"
+          },
+          "URL": "https://www.iebschool.com/"
+        },
+        "roles": [
+          {
+            "name": "Lecturer",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Teacher in the Master in Business Intelligence and Data Science (IEBS). Subjects: Recommender Systems, Natural Language Processing, Deep Learning, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "alt": "compartir+(2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/91e81c18-3b4d-4b00-b1ea-a876259b93ee_compartir(2).jpg"
+          },
+          "URL": "https://www.uc3m.es/"
+        },
+        "roles": [
+          {
+            "name": "Visiting Lecturer ",
+            "startDate": "2015-09-01",
+            "finishDate": "2016-04-01",
+            "challenges": [
+              {
+                "description": "Researcher at Machine Learning for Data Science Group (ML4DS). Participant in Research Projects and Contracts related to Machine Learning and Natural Language Processing. Teacher of Systems and Circuits, Machine Learning, Data Processing, Digital Image Processing (Spanish & English)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Matlab",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "alt": "compartir+(2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/5f8ac281-3fea-4315-a619-ca462746c1db_compartir(2).jpg"
+          },
+          "URL": "https://www.uc3m.es/"
+        },
+        "roles": [
+          {
+            "name": "Researcher",
+            "startDate": "2010-09-01",
+            "finishDate": "2015-08-01",
+            "challenges": [
+              {
+                "description": "Under FPU Spanish Ministry of Education program. Ph. D. thesis on Signal Processing and Learning techniques for Wireless Sensor Networks.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Matlab",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA Europe & LATAM (formerly Everis)",
+          "image": {
+            "alt": "ntt-data-corporation-logo-vector.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b5f0bed0-c59d-420e-bbe0-73e1497dd829_ntt-data-corporation.jpg"
+          },
+          "URL": "https://es.nttdata.com/"
+        },
+        "roles": [
+          {
+            "name": "Lead Machine Learning Engineer",
+            "startDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "Coordinator of the AI Team of knowler, an Smart Knowledge Management tools. Developing Machine Learning tools with focus in Natural Languge Processing. These are applied in  information extraction, search engine, and recommender systems.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Scikit-learn",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "PyTorch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of California, Los Angeles",
+          "image": {
+            "alt": "800px-The_University_of_California_UCLA.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7a624c03-ebde-4cc6-b3b1-efabbf0920af_800px-the_university.png"
+          },
+          "URL": "https://www.ucla.edu/"
+        },
+        "roles": [
+          {
+            "name": "Visiting Graduate Researcher",
+            "startDate": "2013-09-01",
+            "finishDate": "2013-12-01",
+            "challenges": [
+              {
+                "description": "in Adaptive Systems Laboratory, supervised by Prof. Ali H. Sayed. Development of new schemes of distributed estimation based in diffusion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Elecnor Deimos ",
+          "image": {
+            "alt": "deimos-1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/3b74bcbc-4115-434b-90b9-5498f0ac42ff_deimos-1.jpg"
+          },
+          "URL": "https://elecnor-deimos.com/es/inicio-es/"
+        },
+        "roles": [
+          {
+            "name": "Project Engineer ",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-07-01",
+            "challenges": [
+              {
+                "description": "Internship in Internet and Mobility division. Android programmer in the national R&D project: Virtual Spain"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Matlab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scikit-learn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sklearn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificte on Advanced English",
+        "startDate": "2012-04-01",
+        "finishDate": "2012-04-01",
+        "institution": {
+          "name": "University of Cambridge",
+          "description": "Council of Europe Level C1 English",
+          "URL": "https://www.cambridgeenglish.org/",
+          "image": {
+            "alt": "university_of_cambridge_1014.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/71467ff6-b5af-4d36-a5df-3dbd69e4f9d9_university_of_cambri.svg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ph. D. in Multimedia and Communications",
+        "startDate": "2012-09-01",
+        "finishDate": "2015-06-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "description": "Thesis: Algorithms for Energy-Efficient Adaptive Wireless Sensor Networks. \n Supervisors: Jesús Cid Sueiro and Jerónimo Arenas García. Grade: Summa Cum Laude and Outstanding Thesis Award.\n",
+          "URL": "https://www.uc3m.es/",
+          "image": {
+            "alt": "compartir+(2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/78342b10-0150-4fd6-99b2-2461a9c82936_compartir(2).jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Experto Universitario en Gestión del I+D+i en la Empresa",
+        "startDate": "2018-03-01",
+        "finishDate": "2018-06-01",
+        "institution": {
+          "name": "University of Zaragoza",
+          "description": "120 Hours course designed to provide graduates, mainly from the Engineering, Biomedical and Science branches, with the R&D&I management tools that enable them to work as technologists in the business world.",
+          "URL": "https://gestionimasd.i3a.es/",
+          "image": {
+            "alt": "logouz_cmyk_alta_negro-02.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/fa82bf6f-150c-46ce-afe8-182fe2387109_logouz_cmyk_alta_neg.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc. in Multimedia y Communications",
+        "startDate": "2010-09-01",
+        "finishDate": "2012-08-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "description": "Major in Data and Signal Processing. Courses of Machine Learning, Signal Processing, Computer Vision, Speech Processing, Optimization, etc.",
+          "URL": "https://www.uc3m.es/",
+          "image": {
+            "alt": "compartir+(2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/36475eb4-78ec-43b8-9304-08e2fc167549_compartir(2).jpg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecommunication Engineering",
+        "startDate": "2004-09-01",
+        "finishDate": "2010-09-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "description": "Bilingual Spanish-English. Erasmus at Chalmers University of Technology. Gothenburg (Sweden). Best Student Award in Telecommunication Engineering (Year 2009/2010).",
+          "URL": "https://www.uc3m.es/",
+          "image": {
+            "alt": "compartir+(2).jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b858ac8a-7884-427f-9788-7651755459a9_compartir(2).jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jesusfbes/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "PyTorch",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Scikit-learn",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}

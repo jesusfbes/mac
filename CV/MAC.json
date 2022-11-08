@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/ea1efa99-b233-4016-b560-07b8a02937c9_1580241870496.jpg"
       },
       "location": {
-        "notes": "Zaragoza (Spain)"
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -281,10 +284,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -302,19 +307,25 @@
       },
       {
         "skill": {
-          "name": "Matlab",
+          "name": "PyTorch",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Scikit-learn",
+          "name": "Fastapi",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Matlab",
           "type": "technology"
         }
       },
@@ -332,13 +343,7 @@
       },
       {
         "skill": {
-          "name": "Fastapi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PyTorch",
+          "name": "Scikit-learn",
           "type": "technology"
         }
       }
@@ -459,7 +464,12 @@
           "name": "TensorFlow",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Scientist",
+        "Machine Learning Engineer"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }

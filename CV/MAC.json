@@ -506,6 +506,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "PyTorch",
+        "type": "technology"
+      },
+      {
         "name": "Python",
         "type": "technology"
       },

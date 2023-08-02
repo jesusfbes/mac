@@ -305,6 +305,12 @@
       },
       {
         "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PyTorch",
           "type": "technology"
         }

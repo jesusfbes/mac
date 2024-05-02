@@ -11,8 +11,8 @@
       "title": "Ph. D. Data and Signal Processing | Lead Machine Learning Engineer | Senior Data Scientist | Building Artificial Intelligence Systems",
       "description": "As a Lead Machine Learning Engineer at NTT DATA since 2019, I oversee the definition, implementation, and deployment of AI components for various innovative products, including Knowler, a smart knowledge management system.\n\nIn my previous role, I served as a Postdoctoral Researcher at I3A, specializing in mathematical modeling for cardiac cells within the BSICoS group. I earned my Ph.D. with honors from Universidad Carlos III de Madrid, focusing on the convergence of Signal Processing and Machine Learning and contributing to esteemed international research journals.\n\nCombining academic rigor with practical experience, I've also lectured in both Spanish and English, covering diverse courses in Machine Learning, Data, and Signal Processing.\n\nMy professional expertise spans Machine Learning, Natural Language Processing, and the design and implementation of intelligent information systems. Proficient in Python and well-versed in technologies such as Azure, SQL, and Elastic Search, I am consistently motivated to contribute to driving business growth through strategic technological solutions.\n\nWith a keen interest in Research, Development, Innovation, and Competitive Intelligence, I bring a business-oriented mindset to deliver results and navigate the evolving landscape of AI and technology.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/9816d8c5-9985-4f1b-b37b-a47c1a093bcf_linkedin-photo-3921.linkedin-photo-3921",
-        "alt": "24/05/02/9816d8c5-9985-4f1b-b37b-a47c1a093bcf_linkedin-photo-3921.linkedin-photo-3921"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/1aab0785-9b84-45d7-aae0-8ef08f6cf3ae_linkedin-photo-3921.linkedin-photo-3921",
+        "alt": "24/05/02/1aab0785-9b84-45d7-aae0-8ef08f6cf3ae_linkedin-photo-3921.linkedin-photo-3921"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJX50N2BcRWQ0RTsQP8CHk3nc)",
@@ -46,6 +46,16 @@
         "name": "ES",
         "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "SV",
+        "fullName": "Sueco",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [

@@ -488,6 +488,10 @@
           "type": "technology"
         },
         {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
           "name": "PyTorch",
           "type": "technology"
         },

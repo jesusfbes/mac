@@ -375,6 +375,7 @@
         "startDate": "2012-01-01",
         "institution": {
           "name": "Universidad Carlos III de Madrid",
+          "description": "Ph.D. Thesis entitled *Algorithms for Energy-Efficient Adaptive Wireless Sensor Networks*. Supervisors: Jesús Cid Sueiro and Jerónimo Arenas García. \nGrade: Summa Cum Laude and Outstanding Thesis Award.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/f803d8cf-fb4b-4f7e-81c1-707366dc5d98_linkedin-photo-3921.linkedin-photo-3921",
             "alt": "24/05/02/f803d8cf-fb4b-4f7e-81c1-707366dc5d98_linkedin-photo-3921.linkedin-photo-3921"

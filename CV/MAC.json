@@ -492,6 +492,10 @@
           "type": "technology"
         },
         {
+          "name": "Jupyter",
+          "type": "technology"
+        },
+        {
           "name": "PyTorch",
           "type": "technology"
         },

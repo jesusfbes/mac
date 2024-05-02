@@ -290,19 +290,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -326,12 +320,6 @@
       },
       {
         "skill": {
-          "name": "Latex",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -339,6 +327,18 @@
       {
         "skill": {
           "name": "Matlab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
           "type": "technology"
         }
       },
@@ -362,7 +362,7 @@
       },
       {
         "skill": {
-          "name": "R",
+          "name": "spaCy",
           "type": "technology"
         }
       }
@@ -404,6 +404,7 @@
         "startDate": "2010-01-01",
         "institution": {
           "name": "Universidad Carlos III de Madrid",
+          "description": "Major in Data and Signal Processing. Courses of Machine Learning, Signal Processing, Computer Vision, Speech Processing, Optimization, etc.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/937665e4-f585-4c77-816a-ca3f861e3dff_linkedin-photo-3921.linkedin-photo-3921",
             "alt": "24/05/02/937665e4-f585-4c77-816a-ca3f861e3dff_linkedin-photo-3921.linkedin-photo-3921"

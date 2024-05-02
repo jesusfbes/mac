@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,14 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesusfbes/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jesusfbes"
+      },
       {
         "type": "other",
         "URL": "http://jesusfbes.es"
@@ -264,7 +272,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               }
             ]
@@ -277,10 +285,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
@@ -469,12 +479,6 @@
       ],
       "contactMails": [
         "jesus.fbes@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "699252241",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -505,6 +509,14 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Fastapi",
+        "type": "technology"
+      },
+      {
+        "name": "Jupyter",
+        "type": "technology"
+      },
       {
         "name": "PyTorch",
         "type": "technology"

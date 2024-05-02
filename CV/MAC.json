@@ -369,6 +369,23 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Azure Fundamentals",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "As a candidate for this certification, you’re a technology professional who wants to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This certification is a common starting point in a journey towards a career in Azure.\n\nYou can describe Azure architectural components and Azure services, such as:\n- Compute\n- Networking\n - Storage\n\nYou can also describe features and tools to secure, govern, and administer Azure.\n\nYou should have skills and experience working with an area of IT, such as:\n\n- Infrastructure management\n- Database management\n- Software development",
+          "URL": "https://learn.microsoft.com/en-us/users/jesusfernandezbes-0090/credentials/a59f26d9135969a"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Doctor of Philosophy (Ph.D.), Telecommunications Engineering",

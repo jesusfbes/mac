@@ -484,6 +484,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "PyTorch",
           "type": "technology"
         },

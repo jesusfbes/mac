@@ -11,8 +11,8 @@
       "title": "Ph. D. Data and Signal Processing | Lead Machine Learning Engineer | Senior Data Scientist | Building Artificial Intelligence Systems",
       "description": "As a Lead Machine Learning Engineer at NTT DATA since 2019, I oversee the definition, implementation, and deployment of AI components for various innovative products, including Knowler, a smart knowledge management system.\n\nIn my previous role, I served as a Postdoctoral Researcher at I3A, specializing in mathematical modeling for cardiac cells within the BSICoS group. I earned my Ph.D. with honors from Universidad Carlos III de Madrid, focusing on the convergence of Signal Processing and Machine Learning and contributing to esteemed international research journals.\n\nCombining academic rigor with practical experience, I've also lectured in both Spanish and English, covering diverse courses in Machine Learning, Data, and Signal Processing.\n\nMy professional expertise spans Machine Learning, Natural Language Processing, and the design and implementation of intelligent information systems. Proficient in Python and well-versed in technologies such as Azure, SQL, and Elastic Search, I am consistently motivated to contribute to driving business growth through strategic technological solutions.\n\nWith a keen interest in Research, Development, Innovation, and Competitive Intelligence, I bring a business-oriented mindset to deliver results and navigate the evolving landscape of AI and technology.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/1aab0785-9b84-45d7-aae0-8ef08f6cf3ae_linkedin-photo-3921.linkedin-photo-3921",
-        "alt": "24/05/02/1aab0785-9b84-45d7-aae0-8ef08f6cf3ae_linkedin-photo-3921.linkedin-photo-3921"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/0b6931d9-4c5a-4b94-a715-20302d518b15_linkedin-photo-3921.linkedin-photo-3921",
+        "alt": "24/05/02/0b6931d9-4c5a-4b94-a715-20302d518b15_linkedin-photo-3921.linkedin-photo-3921"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJX50N2BcRWQ0RTsQP8CHk3nc)",
@@ -32,6 +32,235 @@
       {
         "type": "other",
         "URL": "http://jesusfbes.es"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/be914fe9-62cd-4999-9fd6-f5ab63b50b5b_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/be914fe9-62cd-4999-9fd6-f5ab63b50b5b_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Artificial Intelligence Research Engineer",
+            "startDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "As part of the Generative AI office, my role involves tracking latest advancements, implementing\nprototypes, and evaluating products and technologies for integration. I collaborate with crossfunctional\nteams, contribute to intellectual property, and share knowledge to drive innovation\nand strategic decision-making within the organization. LLMs, LlamaIndex, OpenAI GPT, Azure."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CESTE, Escuela Internacional de Negocios (Centro Universitario)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/8069d51f-51d0-44ad-aaa6-289ccddf72c5_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/8069d51f-51d0-44ad-aaa6-289ccddf72c5_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Teacher in the Master of Artificial Intelligence and Data Science"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IEBS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/2d48ae79-f657-4d03-85c7-19cc1628c974_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/2d48ae79-f657-4d03-85c7-19cc1628c974_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Teacher in the Master in Business Intelligence and Data Science"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/da982aa5-97c9-41ac-bcfc-200a83c01580_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/da982aa5-97c9-41ac-bcfc-200a83c01580_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead Machine Learning Engineer",
+            "startDate": "2019-02-01",
+            "finishDate": "2024-02-28",
+            "challenges": [
+              {
+                "description": "Coordinator of the AI Team of different products (such as knowler), where we develop Machine\nLearning tools for information extraction, information retrieval: Search and Recommendation Systems.\nPython, NLP, Recommender Systems, MLOps."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of Zaragoza",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/08afb049-97e9-43e2-aa01-51393f117c2a_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/08afb049-97e9-43e2-aa01-51393f117c2a_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Postdoctoral Researcher",
+            "startDate": "2017-03-01",
+            "finishDate": "2019-02-28",
+            "challenges": [
+              {
+                "description": "Biomedical Signal Processing & Computational Simulation (BSICoS) Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CIBER BBN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/a9657731-c594-4c1f-ac8d-039cb485652a_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/a9657731-c594-4c1f-ac8d-039cb485652a_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Postdoctoral Researcher",
+            "startDate": "2016-04-01",
+            "finishDate": "2019-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/1d7e4cf6-6de0-44f5-a403-34ec36579ae3_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/1d7e4cf6-6de0-44f5-a403-34ec36579ae3_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lecturer",
+            "startDate": "2015-09-01",
+            "finishDate": "2016-04-30",
+            "challenges": [
+              {
+                "description": "- Researcher in the Information Processing and Management Group (G2PI)\n- Participant in several research projects and contract related to Signal Processing, Machine Learning and Big Data.\n- Teacher of Systems and Circuits, Data Processing, Estimation and Detection Theory (Spanish & English)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UCLA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/ec08bcce-8bd6-461a-b20c-9b9f618b9a01_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/ec08bcce-8bd6-461a-b20c-9b9f618b9a01_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Visiting Graduate Researcher",
+            "startDate": "2013-09-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Researching in Adaptive Systems Laboratory under the supervision of Prof. Ali H. Sayed."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/e545b135-63e5-493e-bd4d-8e187ae5e1e7_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/e545b135-63e5-493e-bd4d-8e187ae5e1e7_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Researcher",
+            "startDate": "2012-11-01",
+            "finishDate": "2015-08-31",
+            "challenges": [
+              {
+                "description": "Under the F.P.U. Grant Programme of Spanish Ministry of Education."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/125512ff-0e0b-40f4-a25d-8ea9f21db564_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/125512ff-0e0b-40f4-a25d-8ea9f21db564_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Researcher",
+            "startDate": "2010-09-01",
+            "finishDate": "2012-10-31",
+            "challenges": [
+              {
+                "description": "Teaching and researching in the Signal Theory and Communication Department."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deimos Space",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/0032520d-365c-4eef-905a-8f3635808ee9_linkedin-photo-3921.linkedin-photo-3921",
+            "alt": "24/05/02/0032520d-365c-4eef-905a-8f3635808ee9_linkedin-photo-3921.linkedin-photo-3921"
+          }
+        },
+        "roles": [
+          {
+            "name": "Project Engineer",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-07-31",
+            "challenges": [
+              {
+                "description": "Android Programmer in the national R&D project: España Virtual."
+              }
+            ]
+          }
+        ]
       }
     ]
   },

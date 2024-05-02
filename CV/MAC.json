@@ -6,25 +6,24 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Jesus",
-      "surnames": "Fernandez Bes",
-      "title": "Ph. D., Lead Machine Learning Engineer en NTT DATA Europe & LATAM",
-      "description": "Telecommunication Engineer, and Ph. D. specialist in Data and Signal Processing Technologies from Universidad Carlos III de Madrid (both with honors). During the Ph. D. I researched about the application of Signal Processing and Machine Learning into Internet of the things (IoT) with publications in international research journals of the field. Also, I have been lecturer at undergraduate and graduate level both in Spanish and English in different courses: Data Processing, Image Processing, Signals and Systems.\n\nAfter, the Ph. D. I was as a postdoc in I3A (Instituto de Investigación en Ingeniería de Aragón) working in mathematical modeling of cardiac cells in BSICoS (Biomedical Signal Interpretation and Computational Simulation) group. \n\nSince 2019 I am Artificial Intelligence Engineer in Everis where I coordinate the technical team in charge of the Artificial Intelligence of Knowler, an innovative product of smart knowledge management. \n\nI have professional experience in the use of machine learning and Natural Language Processing techniques and frameworks; in the design and implementation of intelligent information systems: e.g., Information extraction systems, Document Classifiers, Recommendation Systems, etc. Also I have proficiency in Python and professional Java and Big Data techniques experience.\n\nI have Interest in all levels of Research, Development, Innovation and Competitive Intelligence. ",
+      "name": "Jesús",
+      "surnames": "Fernández Bes",
+      "title": "Ph. D. Data and Signal Processing | Lead Machine Learning Engineer | Senior Data Scientist | Building Artificial Intelligence Systems",
+      "description": "As a Lead Machine Learning Engineer at NTT DATA since 2019, I oversee the definition, implementation, and deployment of AI components for various innovative products, including Knowler, a smart knowledge management system.\n\nIn my previous role, I served as a Postdoctoral Researcher at I3A, specializing in mathematical modeling for cardiac cells within the BSICoS group. I earned my Ph.D. with honors from Universidad Carlos III de Madrid, focusing on the convergence of Signal Processing and Machine Learning and contributing to esteemed international research journals.\n\nCombining academic rigor with practical experience, I've also lectured in both Spanish and English, covering diverse courses in Machine Learning, Data, and Signal Processing.\n\nMy professional expertise spans Machine Learning, Natural Language Processing, and the design and implementation of intelligent information systems. Proficient in Python and well-versed in technologies such as Azure, SQL, and Elastic Search, I am consistently motivated to contribute to driving business growth through strategic technological solutions.\n\nWith a keen interest in Research, Development, Innovation, and Competitive Intelligence, I bring a business-oriented mindset to deliver results and navigate the evolving landscape of AI and technology.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/ea1efa99-b233-4016-b560-07b8a02937c9_1580241870496.jpg",
-        "alt": "1580241870496.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/9816d8c5-9985-4f1b-b37b-a47c1a093bcf_linkedin-photo-3921.linkedin-photo-3921",
+        "alt": "24/05/02/9816d8c5-9985-4f1b-b37b-a47c1a093bcf_linkedin-photo-3921.linkedin-photo-3921"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJX50N2BcRWQ0RTsQP8CHk3nc)",
         "country": "España",
-        "region": "Aragón",
-        "municipality": "Zaragoza"
+        "region": "Aragón"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jesusfbes/"
+        "URL": "https://linkedin.com/in/jesusfbes"
       },
       {
         "type": "github",
@@ -33,251 +32,6 @@
       {
         "type": "other",
         "URL": "http://jesusfbes.es"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "IEBS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/c216af8a-539c-4b4b-8c2e-c4eb6bd5c16a_logo-iebs-tagline-ho.png",
-            "alt": "logo-iebs-tagline-horizontal.png"
-          },
-          "URL": "https://www.iebschool.com/"
-        },
-        "roles": [
-          {
-            "name": "Lecturer",
-            "startDate": "2020-01-01",
-            "finishDate": "2020-12-01",
-            "challenges": [
-              {
-                "description": "Teacher in the Master in Business Intelligence and Data Science (IEBS). Subjects: Recommender Systems, Natural Language Processing, Deep Learning, etc."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CESTE",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/211cd8f8-548a-4692-9ae3-5da1bd51aa2f_ceste-logo-escuela-r.png",
-            "alt": "CESTE-Logo-Escuela-RGB.png"
-          },
-          "URL": "https://www.ceste.es/"
-        },
-        "roles": [
-          {
-            "name": "Lecturer",
-            "startDate": "2019-09-01",
-            "finishDate": "2020-03-01",
-            "challenges": [
-              {
-                "description": "Teacher in the Master of Artificial Intelligence and Data Science (CESTE). Subjects: Deep Learning, Introduction to Data Science."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "NTT DATA Europe & LATAM (formerly Everis)",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b5f0bed0-c59d-420e-bbe0-73e1497dd829_ntt-data-corporation.jpg",
-            "alt": "ntt-data-corporation-logo-vector.jpg"
-          },
-          "URL": "https://es.nttdata.com/"
-        },
-        "roles": [
-          {
-            "name": "Lead Machine Learning Engineer",
-            "startDate": "2019-02-01",
-            "challenges": [
-              {
-                "description": "Coordinator of the AI Team of knowler, an Smart Knowledge Management tools. Developing Machine Learning tools with focus in Natural Languge Processing. These are applied in  information extraction, search engine, and recommender systems.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Fastapi",
-                "type": "technology"
-              },
-              {
-                "name": "Jupyter",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "PyTorch",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Scikit-learn",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "University of Zaragoza (Instituto de Investigación en Ingeniería de Aragon)",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/3e255209-854e-4481-a527-74b77898d40c_7zptnfsx_400x400.png",
-            "alt": "7ZptNFsx_400x400.png"
-          },
-          "URL": "https://bsicos.i3a.es/"
-        },
-        "roles": [
-          {
-            "name": "Postdoctoral Researcher",
-            "startDate": "2016-04-01",
-            "finishDate": "2018-02-01",
-            "challenges": [
-              {
-                "description": "Researcher at Biomedical Signal Interpretation and Computational Simulation Group (BSICoS). Research in mathematical Cardiac Modelling and simulation.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Matlab",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Universidad Carlos III de Madrid",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/91e81c18-3b4d-4b00-b1ea-a876259b93ee_compartir(2).jpg",
-            "alt": "compartir+(2).jpg"
-          },
-          "URL": "https://www.uc3m.es/"
-        },
-        "roles": [
-          {
-            "name": "Visiting Lecturer ",
-            "startDate": "2015-09-01",
-            "finishDate": "2016-04-01",
-            "challenges": [
-              {
-                "description": "Researcher at Machine Learning for Data Science Group (ML4DS). Participant in Research Projects and Contracts related to Machine Learning and Natural Language Processing. Teacher of Systems and Circuits, Machine Learning, Data Processing, Digital Image Processing (Spanish & English)."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Matlab",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "University of California, Los Angeles",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7a624c03-ebde-4cc6-b3b1-efabbf0920af_800px-the_university.png",
-            "alt": "800px-The_University_of_California_UCLA.svg.png"
-          },
-          "URL": "https://www.ucla.edu/"
-        },
-        "roles": [
-          {
-            "name": "Visiting Graduate Researcher",
-            "startDate": "2013-09-01",
-            "finishDate": "2013-12-01",
-            "challenges": [
-              {
-                "description": "in Adaptive Systems Laboratory, supervised by Prof. Ali H. Sayed. Development of new schemes of distributed estimation based in diffusion."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Universidad Carlos III de Madrid",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/5f8ac281-3fea-4315-a619-ca462746c1db_compartir(2).jpg",
-            "alt": "compartir+(2).jpg"
-          },
-          "URL": "https://www.uc3m.es/"
-        },
-        "roles": [
-          {
-            "name": "Researcher",
-            "startDate": "2010-09-01",
-            "finishDate": "2015-08-01",
-            "challenges": [
-              {
-                "description": "Under FPU Spanish Ministry of Education program. Ph. D. thesis on Signal Processing and Learning techniques for Wireless Sensor Networks.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Jupyter",
-                "type": "technology"
-              },
-              {
-                "name": "Matlab",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Elecnor Deimos ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/3b74bcbc-4115-434b-90b9-5498f0ac42ff_deimos-1.jpg",
-            "alt": "deimos-1.jpg"
-          },
-          "URL": "https://elecnor-deimos.com/es/inicio-es/"
-        },
-        "roles": [
-          {
-            "name": "Project Engineer ",
-            "startDate": "2010-01-01",
-            "finishDate": "2010-07-01",
-            "challenges": [
-              {
-                "description": "Internship in Internet and Mobility division. Android programmer in the national R&D project: Virtual Spain"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -443,33 +197,13 @@
         },
         "finishDate": "2010-09-01"
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Capacity for self-management ",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/jesusfbes/",
+          "URL": "https://linkedin.com/in/jesusfbes",
           "type": "linkedin"
         },
         {
